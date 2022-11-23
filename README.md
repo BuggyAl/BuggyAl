@@ -2,7 +2,10 @@
 Hi there! My name is BuggyAl and I am a self-taught, middle school programmer based in the US! Some things about me...
 - Fluent Skript Developer
 - Learning Java
-- Passed Algebra 
+- Passed Algebra
+
+[![BuggyAl's GitHub stats](https://github-readme-stats.vercel.app/api?username=buggyal)](https://github.com/anuraghazra/github-readme-stats)
+
 ### My Skills
 During my 5 years of experience with Minecraft development, I have gained many skills which have helped me succeed in my multiple projects. Some of these projects include shops, minigames, custom items, skill trees, and more.
 
