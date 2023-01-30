@@ -13,6 +13,4 @@ I'm currently working on SoulQuest, a Minecraft MMORPG. Through this, I am learn
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BuggyAl&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BuggyAl&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=BuggyAl&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
